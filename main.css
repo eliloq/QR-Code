@@ -1,0 +1,4 @@
+@import url(./settings.css);
+@import url(./styles/Desktop.css) screen and (min-width: 375px) and
+  (max-width: 1440px);
+@import url(./styles/Mobile.css) screen and (max-width: 375px);
